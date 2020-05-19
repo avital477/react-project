@@ -1,2 +1,4 @@
 {
+    "scm.alwaysShowProviders": true
+    //  "git.autofetch": true
 }

@@ -4,10 +4,10 @@ import Radium, { StyleRoot } from 'radium';
 import Person from './Person/Person';
 
 class App extends Component {
-
+//stateeeeee
   state={ 
     persons: [
-    {id: "1", name: "Avital", age: 23},
+    {id: "1", name: "Avitul", age: 23},
     {id: "2", name: "Nava", age: 17},
     {id: "3", name: "Maoz", age: 14}
   ],
